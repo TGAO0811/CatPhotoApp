@@ -1,2 +1,2 @@
 # CatPhotoApp
-CatPhotoApp from freeCodeCamp.org to learn HTML
+CatPhotoApp from freeCodeCamp.org to learn HTML.
