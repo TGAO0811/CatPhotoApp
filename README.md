@@ -35,3 +35,9 @@ Things Learnt:
     - head: top of document
 - !DOCTYPE html: At the beginning of HTML file
 
+Product: 
+![plot](/Users/tonygao/Desktop/untitled folder/CatPhotoApp/Screenshot 2024-06-03 at 9.17.17 PM.png)
+
+Question: 
+How to access data from survey? 
+
